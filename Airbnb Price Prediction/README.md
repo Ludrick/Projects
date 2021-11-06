@@ -1,7 +1,7 @@
-## **Desafio Data Science - COGNITIVO.AI**
+## **Desafio Data Science - Airbnb Price Prediction**
 ___
 
-## Luciano Fernandes de Ávila Oliveira
+## Luciano Fernandes
 **Dataset:**<br> 
 Nosso dataset é uma extração de dados do Airbnb Rio de
 Janeiro, conforme fonte:
